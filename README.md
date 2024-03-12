@@ -24,7 +24,7 @@
     </a>
 </div>
 
-colpData a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock focused on providing accurate pricing data on various items.
+colpData a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock focused on providing accurate pricing data and various QOL features.
 
 ## Getting Started
 
@@ -53,6 +53,7 @@ colpData a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock focused o
 - Trades profit checker.
 - Median and lowest bin comparison.
 - Get references to your pricing information
+- Highly customizable friends and groups section.
 - An in-game skyblock profile viewer accessed with `/data [player]`.
 - Profitable crafts accessed with `/pcrafts`.
 - Onscreen overlays made specifically to assist lowballers.

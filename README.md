@@ -40,12 +40,12 @@ colpData a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock focused o
 #### Installing the NEData mod
 
 1. Download the latest mod [release](https://github.com/MoulberryAES/NEData/releases/latest). If it says `this file may harm your computer`, click `allow anyways` as all java files will be flagged by Chrome.
-2. Add the NED mod:
+2. Add the colpData mod:
    - If you have java installed, double click the file, click `install`
    - If not, press the windows key + R; type `%appdata%`; click on the folder called `.minecraft`; click on the folder called `mods` and drag the mods file in here.
 3. Open the Minecraft launcher and run your forge installation you set up earlier.
 4. Then, hop onto Skyblock and run the command `/api new`. Your api key is automatically filled out and all features should work.
-5. Type `/ned`. If you see the NEData menu, you have done this correctly!
+5. Type `/colp`. If you see the colpData menu, you have done this correctly!
 
 ## Features
 

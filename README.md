@@ -22,10 +22,6 @@
     <a href="https://discord.gg/moulberry" target="_blank">
         <img src="https://img.shields.io/discord/516977525906341928?label=discord&color=informational&logo=Discord&logoColor=FFFFFF" alt="discord">
     </a>
-    <!-- downloads -->
-    <a href="https://github.com/MoulberryAES/NEData/releases/latest" target="_blank">
-        <img src="https://img.shields.io/github/downloads/Moulberry/NotEnoughUpdates/total?label=downloads&color=informational&logo=GitHub" alt="downloads">
-    </a>
 </div>
 
 NED is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock focused on providing accurate pricing data on various items.
@@ -68,16 +64,16 @@ NED is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock focused on 
 
 ## Support
 
-If you need assistance installing or using the mod, feel free to join the [discord](https://discord.gg/moulberry) and ask for help in [#neu-support](discord://discord.com/channels/516977525906341928/714332750156660756)
+If you need assistance installing or using the mod, feel free to join the [discord](https://discord.gg/moulberry).
 
 ## Contributing
 
-If you would like to contribute to the project, look at our [contribution guide](CONTRIBUTING.md) for more information how to install NED for development purposes.
+If you would like to contribute to the project, look at our contribution guide for more information how to install NED for development purposes.
 
 ## Security
 
-If you have found a vulnerability, please follow our [security policy](.github/SECURITY.md).
+If you have found a vulnerability, please follow our security policy.
 
 ## License
 
-This project is licensed under LGPL-3.0-or-later, see [COPYING](COPYING) and [COPYING.LESSER](COPYING.LESSER) for more details.
+This project is licensed under LGPL-3.0-or-later, see COPYING and COPYING.LESSER for more details.

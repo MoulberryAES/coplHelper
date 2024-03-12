@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-file MD001 MD033 -->
-<h1 align="center">NEData</h1>
+<h1 align="center">colpData</h1>
 
 <div align="center">
     <!-- release -->
@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/github/v/release/Moulberry/NotEnoughUpdates-REPO?color=informational&include_prereleases&label=release&logo=github&logoColor=white" alt="release">
     </a>
     <!-- lines -->
-    <a href="https://github.com/NotEnoughUpdates/NotEnoughUpdates/graphs/code-frequency" target="_blank">
+    <a href="https://github.com/MoulberryAES/NEData/graphs/code-frequency" target="_blank">
         <img src="https://img.shields.io/tokei/lines/github/NotEnoughUpdates/NotEnoughUpdates?label=lines&color=informational&logo=GitHub" alt="lines">
     </a>
     <!-- license -->
@@ -24,7 +24,7 @@
     </a>
 </div>
 
-NED is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock focused on providing accurate pricing data on various items.
+colpData a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock focused on providing accurate pricing data on various items.
 
 ## Getting Started
 
@@ -51,14 +51,14 @@ NED is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock focused on 
 
 - An item list containing information and recipes about every item in skyblock.
 - Trades profit checker.
+- Median and lowest bin comparison.
+- Get references to your pricing information
 - An in-game skyblock profile viewer accessed with `/data [player]`.
 - Profitable crafts accessed with `/pcrafts`.
-- The ability to change the line color of fishing rods.
-- Onscreen overlays for: Farming, Dwarven Mines, Pets, and the Accessory bag.
-- A custom auction house accessed with `/nedah`.
+- Onscreen overlays made specifically to assist lowballers.
+- A custom auction house accessed with `/colpah`.
 - A custom Action House Search GUI.
 - A custom storage GUI.
-- A custom enchanting table GUI.
 - Slot Locking
 - And more.
 
